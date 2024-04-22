@@ -1,4 +1,4 @@
-# ESP32 Heart Rate and SpO2 Monitoring with ThingSpeak Integration
+# ESP32 ECG Heart Rate and SpO2 Monitoring with ThingSpeak Integration
 
 This project utilizes an ESP32 microcontroller along with a MAX30102 sensor to monitor heart rate and blood oxygen saturation (SpO2) levels. The collected data is then sent to ThingSpeak, an IoT platform, for storage and visualization.
 
